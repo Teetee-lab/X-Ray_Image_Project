@@ -38,8 +38,8 @@ We obtained our data from Kaggle: https://www.kaggle.com/paultimothymooney/chest
 │   ├── Tony                  
 │   │   └── ...
 │   └── Paul                  
-│       └── ...
-├── ChestXRayImageProject.ipynb           <- Narrative documentation of project in Jupyter notebook
+│   │   └── ...
+│   ├── ChestXRayImageProject.ipynb       <- Narrative documentation of project in Jupyter notebook
 ├── Presentation                          <- PDF version of project presentation
 └── README.md                             <- Top-level README
 ``` 
