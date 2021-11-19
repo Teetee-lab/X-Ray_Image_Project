@@ -1,4 +1,5 @@
 # X-Ray_Image_Project
+![X-ray machine](https://www.thegreatcoursesdaily.com/wp-content/uploads/2021/03/Xray-Feature.jpg)
 
 ## Project Overview
 This notebook contains our steps to solving a data science predictive modeling image classification problem. Which involves the Chest X-rays Images from pediatric patients of one of five years old from childrens's Medical Center. Our aim is to develop an accurate model that predicts whether or not a patient have pneumonia based on the X-ray images. After trying different models we decided to use a pretrained CNN model VGG19 and decided to tune it with our dataset and then test it on unseen dataset to see how it performed. We convert the learning problem into an optimization problem, define a loss function and then optimize the algorithm to minimize the loss function.
