@@ -1,5 +1,4 @@
 # X-Ray_Image_Project
-![X-ray machine](https://www.thegreatcoursesdaily.com/wp-content/uploads/2021/03/Xray-Feature.jpg)
 
 ## Business Problem
 Pneumonia is a respiratory infection caused by bacteria or viruses especially in developing countries and underdeveloped nations, where high levels of pollution and unhygienic living conditions. Early detection of pneumonia is crucial to ensure curative treatment and also increase survival rates. Chest X-Ray imaging is the most frequently used method for diagnosing pneumonia. However, the examination of Chest X-rays is a challenging task and is prone to subjective variability. The normal process involves grading the X-rays until it reaches the final score before confirming that a patient actually has pneumonia and that usually takes time and sometimes causes error.
